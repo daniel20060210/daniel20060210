@@ -61,17 +61,6 @@ A full campus product spanning a native WeChat Mini Program, a Vue 3 administrat
 
 ## GitHub activity
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="176" alt="Chenyang's public GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=daniel20060210&amp;show_icons=true&amp;show=reviews,prs_merged&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=5DE4FF&amp;text_color=C9D1D9&amp;icon_color=A978FF" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="176" alt="Languages used across Chenyang's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel20060210&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=5DE4FF&amp;text_color=C9D1D9" />
-  </a>
-</p>
-
-<p align="center"><sub>Statistics above reflect public repositories and may be cached by the card provider.</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel20060210/daniel20060210/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel20060210/daniel20060210/output/github-contribution-grid-snake.svg" />
