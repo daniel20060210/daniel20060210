@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Chenyang Magic Conch — open-source AI Agent infrastructure" />
 
-  <h1>Hi, I'm Chenyang / 陈阳 🐚</h1>
+  <h1>Hi, I'm Chenyang 🐚</h1>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
@@ -18,25 +18,21 @@
   </p>
 </div>
 
-## About me / 关于我
+## About me
 
 I build open-source infrastructure where people and AI agents work together. I am currently building **Tutti**, a real-time shared workspace that connects context, files, apps, and tasks across agents.
-
-我正在构建让人与 AI 智能体共享上下文、文件、应用与任务的协作基础设施，让不同智能体可以在统一工作空间中连续完成复杂工作。
 
 - 🐚 Building [Tutti](https://github.com/tutti-os/tutti) — where people and agents build in tune.
 - 🤖 Exploring multi-agent collaboration, Agent lifecycles, and developer tools.
 - 🚀 Shipping open-source and full-stack products from **Nexight · Shenzhen**.
 
-## Featured open source / 代表项目
+## Featured open source
 
 ### 🟣 [Tutti](https://github.com/tutti-os/tutti) · [Website](https://tutti.sh/zh)
 
 > **Where people and agents build in tune.**
 
 Tutti is a real-time shared workspace where people and AI agents work with connected context, files, apps, and tasks. Codex, Claude Code, and other agents can build on one another's output without turning the human into a messenger between isolated tools.
-
-Tutti 是面向人与多智能体协作的实时共享工作空间：上下文、文件、应用与任务彼此连接，让不同 Agent 可以连续接力完成复杂工作。
 
 <p>
   <a href="https://github.com/tutti-os/tutti"><img alt="Tutti GitHub stars" src="https://img.shields.io/github/stars/tutti-os/tutti?style=flat-square&amp;color=6C63FF&amp;label=Stars" /></a>
@@ -48,11 +44,9 @@ Tutti 是面向人与多智能体协作的实时共享工作空间：上下文�
 
 A full campus product spanning a native WeChat Mini Program, a Vue 3 administration console, and Spring Boot services. It covers social content, a second-hand marketplace, errands, teacher ratings, real-time chat, governance, and operational workflows.
 
-一个覆盖微信小程序、Vue 3 管理后台与 Spring Boot 服务的校园产品，包含内容社区、二手交易、跑腿、教师评分、实时聊天与治理运营等完整场景。
-
 <sub>Also exploring quantitative multi-agent workflows in <a href="https://github.com/daniel20060210/Quant_Agents">Quant_Agents</a>.</sub>
 
-## What I work with / 技术方向
+## What I work with
 
 - **Agent Infrastructure** — TypeScript · Python · Codex · Claude
 - **Frontend** — React · Vue · WeChat Mini Program
@@ -65,7 +59,7 @@ A full campus product spanning a native WeChat Mini Program, a Vue 3 administrat
   </a>
 </p>
 
-## GitHub activity / 开源动态
+## GitHub activity
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -87,7 +81,5 @@ A full campus product spanning a native WeChat Mini Program, a Vue 3 administrat
 <div align="center">
 
 ### Let's build the future of human-agent collaboration.
-
-一起构建人与智能体协作的未来。
 
 </div>
