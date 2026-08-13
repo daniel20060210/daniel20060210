@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title>Chenyang — Magic Conch</title>
+  <desc>A deep-ocean technology banner with a luminous conch and connected nodes representing people and AI agents building together.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#111A3A"/>
+      <stop offset="1" stop-color="#27145C"/>
+    </linearGradient>
+    <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F6FAFF"/>
+      <stop offset="0.52" stop-color="#A7F1FF"/>
+      <stop offset="1" stop-color="#C7A7FF"/>
+    </linearGradient>
+    <linearGradient id="conch" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5DE4FF"/>
+      <stop offset="0.5" stop-color="#7B8CFF"/>
+      <stop offset="1" stop-color="#A978FF"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#5DE4FF" stop-opacity="0.28"/>
+      <stop offset="0.52" stop-color="#806CFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#5DE4FF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frameClip">
+      <rect x="10" y="10" width="1180" height="340" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect x="10" y="10" width="1180" height="340" rx="28" fill="url(#background)"/>
+    <rect x="10" y="10" width="1180" height="340" rx="28" fill="url(#grid)"/>
+    <ellipse cx="930" cy="175" rx="320" ry="280" fill="url(#halo)"/>
+    <path d="M-40 313C180 226 310 334 505 258S818 153 1240 227" fill="none" stroke="#5DE4FF" stroke-opacity="0.08" stroke-width="76"/>
+    <path d="M-30 324C188 238 334 342 523 263S837 166 1230 239" fill="none" stroke="#A978FF" stroke-opacity="0.11" stroke-width="2"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      <text x="76" y="86" fill="#5DE4FF" font-size="14" font-weight="700" letter-spacing="4">OPEN SOURCE · AI AGENT INFRASTRUCTURE</text>
+      <text x="72" y="178" fill="url(#headline)" font-size="72" font-weight="800" letter-spacing="3">CHENYANG</text>
+      <text x="76" y="225" fill="#C5D4EF" font-size="22" font-weight="600" letter-spacing="8">MAGIC CONCH</text>
+      <text x="76" y="276" fill="#8296B8" font-size="15" letter-spacing="1.2">WHERE PEOPLE AND AGENTS BUILD IN TUNE.</text>
+    </g>
+
+    <g stroke="#72DFFF" stroke-opacity="0.4" fill="none">
+      <path d="M812 83L864 119L839 171L885 219L842 274"/>
+      <path d="M864 119L934 82L1005 112L1053 174L1032 253L961 290L885 219"/>
+      <path d="M934 82L928 133M1005 112L978 151M1053 174L1002 183M1032 253L986 222M961 290L949 242"/>
+    </g>
+
+    <g fill="#5DE4FF" filter="url(#softGlow)">
+      <circle cx="812" cy="83" r="4"/>
+      <circle cx="934" cy="82" r="5"/>
+      <circle cx="1005" cy="112" r="4"/>
+      <circle cx="1053" cy="174" r="5"/>
+      <circle cx="1032" cy="253" r="4"/>
+      <circle cx="961" cy="290" r="5"/>
+      <circle cx="842" cy="274" r="4"/>
+    </g>
+
+    <g transform="translate(928 186)" fill="none" stroke="url(#conch)" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+      <path d="M7-77C-45-78-88-39-89 14C-91 65-51 100 1 94C43 90 70 57 66 17C62-17 35-39 4-36C-21-34-37-15-34 7C-32 25-17 36 0 34C14 32 23 21 21 9C20 0 12-6 4-5" stroke-width="9"/>
+      <path d="M67 16C82 13 99 19 112 33C91 38 81 51 74 68C62 58 53 50 43 46" stroke-width="8"/>
+      <path d="M-57 65C-74 82-84 99-88 117C-61 109-40 100-22 87" stroke-width="8"/>
+      <path d="M-63-47C-80-62-91-77-97-93C-71-88-48-79-29-66" stroke-width="7" opacity="0.88"/>
+      <path d="M-15-72C-13-97-7-117 3-132C18-110 24-89 24-66" stroke-width="7" opacity="0.88"/>
+    </g>
+
+    <circle cx="816" cy="83" r="3" fill="#F6FAFF" filter="url(#softGlow)">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M0 0L52 36L122-1L193 29L241 91L220 170L149 207L73 136L30 191"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="10.5" y="10.5" width="1179" height="339" rx="27.5" fill="none" stroke="#7FDFFF" stroke-opacity="0.22"/>
+  <path d="M38 11H186" stroke="#5DE4FF" stroke-width="2" stroke-linecap="round" filter="url(#softGlow)"/>
+  <path d="M1014 349H1162" stroke="#A978FF" stroke-width="2" stroke-linecap="round" filter="url(#softGlow)"/>
+</svg>
