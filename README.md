@@ -12,7 +12,7 @@
 
   <p>
     <a href="https://tutti.sh/zh"><img alt="Tutti website" src="https://img.shields.io/badge/Tutti-Visit%20tutti.sh-6C63FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
-    <a href="https://github.com/daniel20060210?tab=followers"><img alt="Follow daniel20060210 on GitHub" src="https://img.shields.io/github/followers/daniel20060210?style=for-the-badge&amp;logo=github&amp;label=Follow" /></a>
+    <a href="https://github.com/Felix-cy110?tab=followers"><img alt="Follow Felix-cy110 on GitHub" src="https://img.shields.io/github/followers/Felix-cy110?style=for-the-badge&amp;logo=github&amp;label=Follow" /></a>
     <a href="https://github.com/Nexight"><img alt="Nexight in Shenzhen" src="https://img.shields.io/badge/Nexight-Shenzhen-0A84FF?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" /></a>
     <a href="mailto:3418786206@qq.com"><img alt="Email Chenyang" src="https://img.shields.io/badge/Email-3418786206%40qq.com-A978FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
   </p>
@@ -40,11 +40,11 @@ Tutti is a real-time shared workspace where people and AI agents work with conne
   <a href="https://github.com/tutti-os/tutti/commits/main"><img alt="Tutti latest commit" src="https://img.shields.io/github/last-commit/tutti-os/tutti?style=flat-square&amp;color=A978FF" /></a>
 </p>
 
-### 🔵 [CampusX](https://github.com/daniel20060210/CampusX-wx)
+### 🔵 [CampusX](https://github.com/Felix-cy110/CampusX-wx)
 
 A full campus product spanning a native WeChat Mini Program, a Vue 3 administration console, and Spring Boot services. It covers social content, a second-hand marketplace, errands, teacher ratings, real-time chat, governance, and operational workflows.
 
-<sub>Also exploring quantitative multi-agent workflows in <a href="https://github.com/daniel20060210/Quant_Agents">Quant_Agents</a>.</sub>
+<sub>Also exploring quantitative multi-agent workflows in <a href="https://github.com/Felix-cy110/Quant_Agents">Quant_Agents</a>.</sub>
 
 ## What I work with
 
@@ -62,9 +62,9 @@ A full campus product spanning a native WeChat Mini Program, a Vue 3 administrat
 ## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel20060210/daniel20060210/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel20060210/daniel20060210/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation based on Chenyang's public GitHub activity" src="https://raw.githubusercontent.com/daniel20060210/daniel20060210/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felix-cy110/Felix-cy110/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felix-cy110/Felix-cy110/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation based on Chenyang's public GitHub activity" src="https://raw.githubusercontent.com/Felix-cy110/Felix-cy110/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <div align="center">
