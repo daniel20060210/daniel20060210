@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title>Chenyang — Magic Conch</title>
+  <title>Felix Sun — Magic Conch</title>
   <desc>A deep-ocean technology banner with a luminous conch and connected nodes representing people and AI agents building together.</desc>
 
   <defs>
@@ -54,7 +54,7 @@
 
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
       <text x="76" y="86" fill="#5DE4FF" font-size="14" font-weight="700" letter-spacing="4">OPEN SOURCE · AI AGENT INFRASTRUCTURE</text>
-      <text x="72" y="178" fill="url(#headline)" font-size="72" font-weight="800" letter-spacing="3">CHENYANG</text>
+      <text x="72" y="178" fill="url(#headline)" font-size="72" font-weight="800" letter-spacing="3">FELIX SUN</text>
       <text x="76" y="225" fill="#C5D4EF" font-size="22" font-weight="600" letter-spacing="8">MAGIC CONCH</text>
       <text x="76" y="276" fill="#8296B8" font-size="15" letter-spacing="1.2">WHERE PEOPLE AND AGENTS BUILD IN TUNE.</text>
     </g>
