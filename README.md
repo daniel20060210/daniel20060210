@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Chenyang Magic Conch — open-source AI Agent infrastructure" />
 
-  <h1>Hi, I'm Chenyang 🐚</h1>
+  <h1>Hi, I'm Felix Sun 🐚</h1>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
