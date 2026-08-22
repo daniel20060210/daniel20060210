@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Chenyang Magic Conch — open-source AI Agent infrastructure" />
+  <img src="./assets/header.svg" width="100%" alt="Felix Sun Magic Conch — open-source AI Agent infrastructure" />
 
   <h1>Hi, I'm Felix Sun 🐚</h1>
 
